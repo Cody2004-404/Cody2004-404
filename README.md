@@ -1,6 +1,11 @@
 
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+# My GitHub contributions as a Game of Life
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/Cody2004-404.gif?z=6)](https://github4life.herokuapp.com/Cody2004-404)
+
+(Be sure to click on it for the infinite scrolling version.)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cody2004-404&label=Profile%20views&color=0e75b6&style=flat" alt="cody2004-404" /> </p>
 
