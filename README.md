@@ -1,12 +1,6 @@
 
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-# My GitHub contributions as a Game of Life
-
-[![GitHub Game of Life](https://github4life.herokuapp.com/Cody2004-404.gif?z=6)](https://github4life.herokuapp.com/Cody2004-404)
-
-(Be sure to click on it for the infinite scrolling version.)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cody2004-404&label=Profile%20views&color=0e75b6&style=flat" alt="cody2004-404" /> </p>
 
 #  About Me:
@@ -27,3 +21,4 @@ I'm an Undergraduate Student(CSE) - Beginner
 ![](https://github-contributor-stats.vercel.app/api?username=Cody2004-404&limit=5&theme=radical&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=Cody2004-404&icon=6&color=6)](https://visitcount.itsvg.in)
+[![GitHub Game of Life](https://github4life.herokuapp.com/Cody2004-404.gif?z=6)](https://github4life.herokuapp.com/Cody2004-404)
