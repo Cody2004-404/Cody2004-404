@@ -1,10 +1,7 @@
-
-
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<p>Welcome to my GitHub profile! </br> I'm Chiranth, Noob Coder 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cody2004-404&label=Profile%20views&color=0e75b6&style=flat" alt="cody2004-404" /> </p>
-
-#  About Me:
-I'm an Undergraduate Student(CSE) - Beginner
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiranth-a-c-029b872aa/) 
