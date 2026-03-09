@@ -1,4 +1,8 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<p align="center">
+  <a href="https://github.com/Cody2004-404">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Chiranth Shetty" /></a>
+</p>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p>Welcome to my GitHub profile! </br> I'm Chiranth, Noob Coder 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cody2004-404&label=Profile%20views&color=0e75b6&style=flat" alt="cody2004-404" /> </p>
