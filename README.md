@@ -2,12 +2,14 @@
 <p align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=24&pause=1000&color=1359F7&center=true&vCenter=true&width=435&height=40&lines=Chiranth+Shetty"/>
+<img src="https://readme-typing-svg.demolab.com?font=Faster+One&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=500&height=50&lines=Chiranth+Shetty" alt="Typing SVG" />
 </a>
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=26&pause=1000&color=0E0FFF&background=03AF0200&center=true&vCenter=true&width=435&height=52&lines=Exploring+AI;Cse+Student;Python+Developer;Looking+for+internships" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Faster+One&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=500&height=50&lines=Exploring+AI;CSE+Student;Python+Developer;Looking+for+Internships" alt="Typing SVG" />
+</a>
 
 </p>
 
