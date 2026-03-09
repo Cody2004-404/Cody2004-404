@@ -1,16 +1,15 @@
+## Coding gif
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<p align="center">
 
+## Typing Svg
+<p align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Faster+One&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=500&height=50&lines=Chiranth+Shetty" alt="Typing SVG" />
 </a>
-
 <br>
-
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Faster+One&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=500&height=50&lines=Exploring+AI;CSE+Student;Python+Developer;Looking+for+Internships" alt="Typing SVG" />
 </a>
-
 </p>
 
 #  Tech Stack:
@@ -21,8 +20,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Cody2004-404&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cody2004-404&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Cody2004-404&limit=5&theme=radical&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=Cody2004-404&icon=6&color=6)](https://visitcount.itsvg.in)
 [![GitHub Game of Life](https://github4life.herokuapp.com/Cody2004-404.gif?z=6)](https://github4life.herokuapp.com/Cody2004-404)
