@@ -1,6 +1,6 @@
-
-<img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
+<p align="center">
+<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+</p>
 
 <p align="center">
 <a href="https://git.io/typing-svg">
