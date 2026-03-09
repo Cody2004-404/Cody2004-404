@@ -2,13 +2,13 @@
 <p align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&height=40&lines=Chiranth+Shetty"/>
+<img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=24&pause=1000&color=1359F7&center=true&vCenter=true&width=435&height=40&lines=Chiranth+Shetty"/>
 </a>
 
 <br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single+Ink&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&height=40&lines=Exploring+AI;CSE+Student;Python+Developer;Looking+for+Internships"/>
+<img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single+Ink&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=435&height=40&lines=Exploring+AI;CSE+Student;Python+Developer;Looking+for+Internships"/>
 </a>
 
 </p>
