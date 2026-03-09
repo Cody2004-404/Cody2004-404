@@ -1,8 +1,18 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=24&pause=1000&color=1359F7&background=AF190900&center=true&vCenter=true&width=435&height=52&lines=Chiranth+Shetty" alt="Typing SVG" /></a>
-<br></br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single+Ink&size=26&pause=1000&color=5FFF00&background=03AF0200&center=true&vCenter=true&width=435&height=52&lines=Exploring+AI;Cse+Student;Python+Developer;Looking+for+internships)](https://git.io/typing-svg)
+<p align="center">
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=24&pause=1000&color=1359F7&center=true&vCenter=true&width=435&height=40&lines=Chiranth+Shetty"/>
+</a>
+
+<br>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single+Ink&size=24&pause=1000&color=5FFF00&center=true&vCenter=true&width=435&height=40&lines=Exploring+AI;CSE+Student;Python+Developer;Looking+for+Internships"/>
+</a>
+
+</p>
 
 #  Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
