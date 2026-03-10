@@ -18,7 +18,50 @@
 ###
 
 #  Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="60" alt="postman logo"/>
+
+</div>
 
 ###
 <!--START_SECTION:waka-->
