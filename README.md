@@ -24,15 +24,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-###
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Cody2004-404&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Cody2004-404&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cody2004-404&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Cody2004-404&icon=6&color=6)](https://visitcount.itsvg.in)
-[![GitHub Game of Life](https://github4life.herokuapp.com/Cody2004-404.gif?z=6)](https://github4life.herokuapp.com/Cody2004-404)
 
 # Socials:
 <a href="https://www.linkedin.com/in/chiranth-a-c-029b872aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
