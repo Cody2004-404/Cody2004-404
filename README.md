@@ -67,8 +67,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   9 mins                ██████████████████▓░░░░░░   74.25 %
-YAML       3 mins                ██████▒░░░░░░░░░░░░░░░░░░   25.75 %
+From: 08 September 2025 - To: 09 March 2026
+
+Total Time: 15 hrs 34 mins
+
+Python         4 hrs 26 mins         ⣿⣿⣿⣿⣿⣿⣿>-----------------   28.55 %
+TypeScript     2 hrs 24 mins         ⣿⣿⣿⣷---------------------   15.51 %
+HTML           2 hrs 21 mins         ⣿⣿⣿⣶---------------------   15.16 %
+Bash           2 hrs 11 mins         ⣿⣿⣿⣤---------------------   14.03 %
 ```
 
 <!--END_SECTION:waka-->
