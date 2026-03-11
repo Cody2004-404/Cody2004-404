@@ -1,9 +1,4 @@
 ###
-<p align="center">
-<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-</p>
-
-###
 
 <p align="center">
 <a href="https://git.io/typing-svg">
@@ -13,6 +8,13 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Faster+One&size=26&pause=1000&duration=3000&color=39FF14&center=true&vCenter=true&width=500&height=50&lines=Exploring+AI;CSE+Student;Python+Developer;Looking+for+Internships" alt="Typing SVG" />
 </a>
+</p>
+
+
+###
+
+<p align="center">
+<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </p>
 
 ###
