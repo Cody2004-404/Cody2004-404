@@ -17,10 +17,12 @@
 
 ###
 
-<p align="center">
-  
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=26&pause=1000&color=00D923&width=435&lines=Tech+stacks" alt="Typing SVG" /></a>
 <div align="center">
+  
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=26&pause=1000&color=00D923&center=true&vCenter=true&width=300&lines=Tech+stacks" alt="Typing SVG" /></a>
+<div align="center">
+
+</div>
   
 </p>
 
@@ -65,7 +67,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="60" alt="postman logo"/>
 
-</div>
+</p>
 
 ###
 <!--START_SECTION:waka-->
