@@ -16,8 +16,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          SECTION_NAME: waka
           BLOCKS: -> ⣀⣄⣤⣦⣶⣷⣿
           LANG_COUNT: 4
           TIME_RANGE: all_time
