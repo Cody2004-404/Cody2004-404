@@ -67,14 +67,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2025 - To: 09 March 2026
+Total Time: 15 hrs 46 mins
 
-Total Time: 15 hrs 34 mins
-
-Python         4 hrs 26 mins         ⣿⣿⣿⣿⣿⣿⣿>-----------------   28.55 %
-TypeScript     2 hrs 24 mins         ⣿⣿⣿⣷---------------------   15.51 %
-HTML           2 hrs 21 mins         ⣿⣿⣿⣶---------------------   15.16 %
-Bash           2 hrs 11 mins         ⣿⣿⣿⣤---------------------   14.03 %
+Python         4 hrs 26 mins         ⣿⣿⣿⣿⣿⣿⣿------------------   28.16 %
+TypeScript     2 hrs 24 mins         ⣿⣿⣿⣶---------------------   15.30 %
+HTML           2 hrs 21 mins         ⣿⣿⣿⣶---------------------   14.95 %
+Bash           2 hrs 11 mins         ⣿⣿⣿⣄---------------------   13.84 %
 ```
 
 <!--END_SECTION:waka-->
