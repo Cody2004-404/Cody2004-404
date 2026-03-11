@@ -17,7 +17,7 @@
 
 ###
 
-#  Tech Stack:
+#  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&pause=1000&color=000000&width=435&lines=Tech+Stack%3A" alt="Typing SVG" /></a>
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"/>
@@ -78,7 +78,7 @@ Bash           2 hrs 11 mins         ⣿⣿⣿⣄---------------------   13.84 %
 <!--END_SECTION:waka-->
 
 
-# Socials:
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&pause=1000&color=000000&width=435&lines=Socials%3A" alt="Typing SVG" /></a>
 <div align="left">
 
 <a href="https://www.linkedin.com/in/chiranth-a-c-029b872aa/">
