@@ -86,7 +86,7 @@ Bash           2 hrs 11 mins         ⣿⣿⣿⣄---------------------   13.84 %
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=26&pause=1000&color=00D923&width=435&lines=Socials" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=26&pause=1000&color=00D923&center=true&vCenter=true&width=300&lines=Socials" />
 </a>
 
 <br>
@@ -94,9 +94,11 @@ Bash           2 hrs 11 mins         ⣿⣿⣿⣄---------------------   13.84 %
 <a href="https://www.linkedin.com/in/chiranth-a-c-029b872aa/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://www.instagram.com/ig.chiruu7/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
 <a href="mailto:chiranth584@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
