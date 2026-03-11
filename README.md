@@ -90,7 +90,7 @@ Bash           2 hrs 11 mins         ⣿⣿⣿⣄---------------------   13.84 %
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=26&pause=1000&color=00D923&center=true&vCenter=true&width=300&lines=Socials" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=26&pause=1000&color=00D923&center=true&vCenter=true&width=300&lines=Socials" alt="Typing SVG" />
 </a>
 
 <br>
