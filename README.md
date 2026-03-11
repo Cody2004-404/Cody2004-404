@@ -77,20 +77,20 @@ Bash           2 hrs 11 mins         ⣿⣿⣿⣄---------------------   13.84 %
 
 <!--END_SECTION:waka-->
 
+###
 
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&pause=1000&color=000000&width=435&lines=Socials%3A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&pause=1000&color=000000&width=435&lines=Socials%3A" alt="Typing SVG"/>
+</a>
+
 <div align="left">
-
 <a href="https://www.linkedin.com/in/chiranth-a-c-029b872aa/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://www.instagram.com/ig.chiruu7/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
-<a href="chiranth@bgsit.ac.in">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:chiranth584@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </div>
