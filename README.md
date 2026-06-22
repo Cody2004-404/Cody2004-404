@@ -108,9 +108,3 @@ HTML           2 hrs 44 mins         ⣿⣿⣿>---------------------   12.36 %
 </a>
 
 </div>
-
-<div align="center">
-  
-![snake gif](https://github.com/Cody2004-404/Cody2004-404/blob/output/github-snake-dark.svg)
-
-</div>
