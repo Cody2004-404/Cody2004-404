@@ -5,20 +5,78 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update README with WakaTime stats
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - uses: athul/waka-readme@master
-        with:
+      - name: Update README WakaTime section
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: -> ⣀⣄⣤⣦⣶⣷⣿
-          LANG_COUNT: 4
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_MASKED_TIME: true
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import re
+          import urllib.request
+          from pathlib import Path
+
+          readme_path = Path("README.md")
+          api_key = os.environ["WAKATIME_API_KEY"]
+          url = f"https://wakatime.com/api/v1/users/current/stats/all_time?api_key={api_key}"
+
+          with urllib.request.urlopen(url, timeout=30) as response:
+              payload = json.loads(response.read().decode("utf-8"))
+
+          data = payload.get("data", {})
+          total_time = data.get("human_readable_total", "0 secs")
+          languages = data.get("languages", [])[:4]
+
+          def bar(percent: float, width: int = 27) -> str:
+              filled = max(0, min(width, round((percent / 100) * width)))
+              return "⣿" * filled + "-" * (width - filled)
+
+          lines = [f"Total Time: {total_time}", ""]
+          for lang in languages:
+              name = str(lang.get("name", "Unknown"))[:14]
+              text = str(lang.get("text", "0 secs"))
+              percent = float(lang.get("percent", 0.0))
+              lines.append(
+                  f"{name:<14} {text:<16} {bar(percent)}   {percent:>6.2f} %"
+              )
+
+          replacement = (
+              "<!--START_SECTION:waka-->\n\n"
+              "```txt\n"
+              + "\n".join(lines)
+              + "\n```\n\n"
+              "<!--END_SECTION:waka-->"
+          )
+
+          content = readme_path.read_text(encoding="utf-8")
+          updated = re.sub(
+              r"<!--START_SECTION:waka-->.*?<!--END_SECTION:waka-->",
+              replacement,
+              content,
+              flags=re.DOTALL,
+          )
+          readme_path.write_text(updated, encoding="utf-8")
+          PY
+
+      - name: Commit and push README updates
+        run: |
+          if git diff --quiet README.md; then
+            echo "No README changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated waka-readme graph with new metrics"
+          git push
